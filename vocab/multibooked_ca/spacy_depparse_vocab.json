@@ -1,0 +1,1 @@
+{"ROOT": 0, "flat": 1, "punct": 2, "det": 3, "advmod": 4, "cc": 5, "conj": 6, "nsubj": 7, "case": 8, "nmod": 9, "advcl": 10, "obj": 11, "csubj": 12, "obl": 13, "cop": 14, "amod": 15, "nummod": 16, "acl": 17, "ccomp": 18, "mark": 19, "appos": 20, "fixed": 21, "aux": 22, "compound": 23, "xcomp": 24, "parataxis": 25, "iobj": 26, "dep": 27, "expl:pass": 28}
