@@ -9,7 +9,7 @@ where *h* is a **holder** who expresses a **polarity** *p* towards a **target** 
 
 The two examples below (first in English, then in Basque) give a visual representation of these *sentiment graphs*.
 
-![multilingual example](./figures/multi_sent_graph.png)
+![multilingual example](./multi_sent_graph.png)
 
 ## Subtask-1
 ### Monolingual
